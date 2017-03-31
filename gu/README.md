@@ -1,2 +1,2 @@
-![All counts](../gu/all_counts.png)
-![Drivers group](../gu/drivers_group.png)
+![All counts](https://cdn.rawgit.com/tumarok/xm/master/gu/all_counts.png)
+![Drivers group](https://cdn.rawgit.com/tumarok/xm/master/gu/drivers_group.png)
